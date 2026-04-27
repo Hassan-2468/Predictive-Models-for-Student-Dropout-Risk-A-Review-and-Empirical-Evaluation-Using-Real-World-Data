@@ -2,7 +2,7 @@ Project Overview :
 
 This project focuses on the critical issue of student dropout in higher education, specifically exploring predictive models as early warning systems.
 
-Key Highlights:
+Key Highlights :
 
 The Problem: Addressing student attrition in challenging and low-resource environments (e.g., Sudan), where academic disruptions are common.
 
